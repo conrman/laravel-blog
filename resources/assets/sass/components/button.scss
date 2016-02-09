@@ -1,0 +1,6 @@
+.btn-icon > .fa,
+.fa-btn {
+	@media (max-width: $screen-md) {
+		margin-right: $padding-base-vertical;
+	}
+}
